@@ -1,0 +1,5 @@
+C:\Users\bmikola1\Desktop\MyRestService\MyRestApi\obj\Debug\netcoreapp3.1\MyRestApi.csprojAssemblyReference.cache
+C:\Users\bmikola1\Desktop\MyRestService\MyRestApi\obj\Debug\netcoreapp3.1\MyRestApi.AssemblyInfoInputs.cache
+C:\Users\bmikola1\Desktop\MyRestService\MyRestApi\obj\Debug\netcoreapp3.1\MyRestApi.AssemblyInfo.cs
+C:\Users\bmikola1\Desktop\MyRestService\MyRestApi\obj\Debug\netcoreapp3.1\MyRestApi.csproj.CoreCompileInputs.cache
+C:\Users\bmikola1\Desktop\MyRestService\MyRestApi\obj\Debug\netcoreapp3.1\MyRestApi.MvcApplicationPartsAssemblyInfo.cache
